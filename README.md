@@ -12,7 +12,7 @@
 ## 완성 작품
 
 ### 작품 회로도
-
+![다운로드](https://github.com/Hyehyun1001/smart_counter/assets/131340754/9f91dd8c-ee73-4955-85b2-c0ba8846b2fb)
 ### 작품 사진
 
 ## 동작 시나리오 및 예시
